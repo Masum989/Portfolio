@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Masum989"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
